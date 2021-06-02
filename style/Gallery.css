@@ -1,0 +1,38 @@
+#bg{
+  background-image: url(../images/bg.png);
+}
+
+.GalleryContainer{
+  width: 1080px;
+  margin: auto;
+}
+caption{
+  font: italic bold 35px Georgia, serif;
+  color: #5e3227;
+}
+/* Gallery */
+
+.gallery table {
+  width: 100%;
+  margin-top: 60px;
+  padding:10px;
+  border-spacing: 25px;
+}
+
+.gallery tr {
+  text-align: center;
+}
+
+.gallery img{
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  padding-bottom: 8px;
+}
+
+.gallery div {
+  font: italic 15px bold times;
+  color: #5e3227;
+}
+
+/* End Gallery */

@@ -1,0 +1,25 @@
+#bg{
+  background-image: url(../images/bg.png);
+}
+.containerMap{
+  width: 1000px;
+  margin: auto;
+  padding-top: 90px
+}
+#imgMap {
+  width: 400px;
+  height: 400px;
+  padding-right: 30px;
+  border-radius: 10%;
+}
+.imgMap{
+  float: left;
+}
+.infoMap p{
+  font: italic 23px Georgia, serif;
+  color: #5e3227;
+  word-spacing: 5px;
+}
+.infoMap span{
+    font: 30px bold Georgia, serif;
+}

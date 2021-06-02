@@ -1,0 +1,45 @@
+body{
+  background-image: url(../images/bg.png);
+}
+   /* product description */
+.container{
+  width: 940px;
+  margin: auto;
+  padding-top: 20px
+}
+
+/*  puchase Form  */
+ h2{
+   color: #42271d;
+   font: italic bold 30px Georgia, serif;
+   display:inline;
+ }
+ table{
+   width: 100%;
+   padding:10px;
+   border-spacing: 15px;
+   /* text-align: center; */
+   font: italic bold 19px Georgia, serif;
+   color: #8b3d55;
+ }
+ input{
+   width: 80%;
+   height: 30px;
+   padding: 3px;
+   padding-left: 10px;
+   margin: 5px 0 0px 0;
+   background: #c7cbba;
+   border-radius: 10px;
+ }
+ .btn{
+   background-color: #a37480;
+   width: 40%;
+   height: 50px;
+   padding: 3px;
+   margin: 5px 0 0px 0;
+   cursor: pointer;
+   font: italic bold 15px Georgia, serif;
+   color: #42271d;
+   border-radius: 40%;
+ }
+/* End puchase Form  */

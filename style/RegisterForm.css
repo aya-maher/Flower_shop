@@ -1,0 +1,49 @@
+body{
+  background-image: url(../images/bg.png);
+}
+.container{
+  width: 1200px;
+  margin: auto;
+}
+
+h2{
+  padding-left: 25px;
+  padding-top: 35px;
+  color: #42271d;
+  font: italic bold 30px Georgia, serif;
+}
+table{
+  width: 40%;
+  padding:10px;
+  border-spacing: 15px;
+  /* text-align: center; */
+  font: italic bold 19px Georgia, serif;
+  color: #8b3d55;
+}
+select , input{
+  width: 80%;
+  height: 30px;
+  padding: 3px;
+  padding-left: 10px;
+  margin: 5px 0 0px 0;
+  background: #c7cbba;
+  border-radius: 10px;
+}
+textarea{
+  background: #c7cbba;
+  border-radius: 15px;
+  padding: 8px;
+  padding-left: 15px;
+  margin: 10px 0 0px 0;
+}
+#Registerbtn{
+  background-color: #a37480;
+  width: 70%;
+  height: 50px;
+  padding: 3px;
+  margin: 5px 0 0px 0;
+  cursor: pointer;
+  font: italic bold 15px Georgia, serif;
+  color: #42271d;
+  border-radius: 20%;
+}

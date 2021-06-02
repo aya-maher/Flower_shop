@@ -1,0 +1,24 @@
+#bg{
+  background-image: url(../images/bg.png);
+}
+/* About Us */
+.containerAboutUs{
+  width: 600px;
+  margin:auto;
+}
+.About {
+  font: italic 19px Georgia, serif;
+  color: #5e3227;
+  word-spacing: 2px;
+  text-align: center;
+}
+.header-About{
+  color: #42271d;
+  font: italic bold 30px Georgia, serif;
+  text-align: center;
+}
+/* End About us */
+#header-about{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}

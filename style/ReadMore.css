@@ -1,0 +1,48 @@
+body{
+  background-image: url(../images/bg.png);
+}
+   /* product description */
+.container{
+  width: 940px;
+  margin: auto;
+  padding-top: 20px
+}
+
+.product img{
+  width: 600px;
+  height: 340px;
+  border-radius: 20px;
+  padding-bottom: 20px
+}
+
+.description {
+  font: italic 23px Georgia, serif;
+  color: #5e3227;
+  word-spacing: 5px;
+}
+
+#price{
+  font: bold 35px Georgia, serif;
+  color: #28251b;
+}
+   /* End product description  */
+
+
+/* Ask to buy */
+.button{
+  background-color: #a37480;
+  width: 30%;
+  height: 50px;
+  padding: 17px 10px 10px 10px;
+  margin: 5px 0 40px 0;
+  text-align: center;
+  border-radius: 50%;
+  float: right;
+}
+a{
+    text-decoration: none;
+    font: italic bold 25px Georgia, serif;
+    color: #42271d;
+    cursor: pointer;
+}
+/* End Ask to buy */
